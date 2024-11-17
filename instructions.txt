@@ -1,0 +1,6 @@
+# to set venv if needed
+python3 -m venv myenv
+source myenv/bin/activate
+
+# install mysql connector
+pip install mysql-connector-python
