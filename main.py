@@ -1,6 +1,7 @@
 import manageAddressBookParentClass as AddressBook
 
-# Man class loaded to execute the application
+
+# Man class loaded to execute the application Using class concept
 class AddressBookMain(AddressBook.AddressBook):
 
     def __init__(self):
